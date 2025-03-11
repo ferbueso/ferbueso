@@ -17,7 +17,7 @@ I am a biomedical engineer with a focus on AI in healthcare. Currently pursuing 
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Fernanda G. Bueso](linkedin.com/in/fernanda-g-bueso-medina-7724631a3)
+- LinkedIn: [Fernanda G. Bueso](https://www.linkedin.com/in/fernanda-g-bueso-medina-7724631a3)
 - Email: [fbuesomedina@gmail.com](#)
 
 Looking forward to collaborating with like-minded innovators in the field of AI and healthcare!
