@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Fernanda!
 
-I am a biomedical engineer with a focus on AI in healthcare. Currently pursuing my MSc in AI for Biomedicine and Healthcare at UCL, I'm passionate about using cutting-edge technology to solve real-world challenges in healthcare and life sciences.
+I am a biomedical engineer with a focus on AI in healthcare. Currently pursuing my MSc in AI for Biomedicine and Healthcare at UCL, I'm passionate about using technology to solve real world challenges in healthcare and life sciences.
 
 ## 🔧 My Expertise
 
@@ -20,4 +20,4 @@ I am a biomedical engineer with a focus on AI in healthcare. Currently pursuing 
 - LinkedIn: [Fernanda G. Bueso](https://www.linkedin.com/in/fernanda-g-bueso-medina-7724631a3)
 - Email: [fbuesomedina@gmail.com](#)
 
-Looking forward to collaborating with like-minded innovators in the field of AI and healthcare!
+Looking forward to collaborating with like minded innovators in the field of AI and healthcare!
