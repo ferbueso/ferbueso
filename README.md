@@ -11,7 +11,7 @@ I am a biomedical engineer with a focus on AI in healthcare. Currently pursuing 
 
 ## 🌱 What I'm Learning
 
-- Exploring new ML techniques for healthcare
+- Exploring new RL techniques for healthcare
 - Advanced deep learning algorithms and applications
 - Innovations in bioinformatics and precision medicine
 
